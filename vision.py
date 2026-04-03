@@ -53,3 +53,5 @@ if __name__ == "__main__":
         print(f"\n[!] Krytyczny błąd systemu: {e}")
     
     print("\nStatus: Zadanie wykonane. Sighișoara coraz bliżej.")
+
+    # Kolejna zmiana dla kwadracika
